@@ -66,6 +66,8 @@ The dataset used in this analysis includes the following key columns:
 
 - **Complaint Trend Over Time**:
   - A line chart tracking the number of complaints received each month, highlighting periods of high activity.
+<img width="1472" alt="Screenshot 2024-09-28 at 20 28 07" src="https://github.com/user-attachments/assets/e5cd5064-9afe-49bd-8328-b3341b808835">
+
 
 
 
