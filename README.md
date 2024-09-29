@@ -1,4 +1,3 @@
-# Credit-Card
 # Credit Card Complaints Dashboard
 
 ## Introduction
