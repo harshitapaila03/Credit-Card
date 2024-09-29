@@ -67,19 +67,5 @@ The dataset used in this analysis includes the following key columns:
 - **Complaint Trend Over Time**:
   - A line chart tracking the number of complaints received each month, highlighting periods of high activity.
 
-## How to Use the Dashboard
-
-1. **Open the Tableau Dashboard**:
-   - Download the `.twb` file from this repository.
-   - Open the file using Tableau Desktop.
-
-2. **Explore the Visualizations**:
-   - Use the filters and interactive elements to navigate through different visualizations.
-   - Hover over data points for additional details and tooltips.
-
-3. **Analyze Key Metrics**:
-   - Switch between different tabs in the dashboard to view complaint categories, company responses, and demographic patterns.
-   - Utilize the drill-down features to gain deeper insights into specific segments or issues.
-
 
 
